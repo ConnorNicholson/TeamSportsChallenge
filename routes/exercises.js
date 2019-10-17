@@ -73,4 +73,5 @@ router.post('/update/:id', async (req, res) => {
     res.send(exercise)
 })
 
+// export router module
 module.exports = router;
