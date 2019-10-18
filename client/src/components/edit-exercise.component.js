@@ -104,6 +104,7 @@ export default class EditExercise extends Component {
               className="form-control"
               value={this.state.username}
               onChange={this.onChangeUsername}>
+                {/* <option disabled></option> */}
               {
                 this.state.users.map(function(user) {
                   return <option 

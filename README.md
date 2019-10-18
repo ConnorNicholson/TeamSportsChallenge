@@ -3,6 +3,13 @@
 
 ### About Us
 
+My name is Connor Nicholson. I am a member on team New York, participating in the Road to Hire Hackaton.
+
+### About this Application
+
+This repo contains a MERN (MongoDB, Express, React, NodeJS) application that tracks users and their exercise routines.
+
+To see this application in action, check out it out on Heroku: https://teamsportschallenge.herokuapp.com/
 
 ### Build Components
 
