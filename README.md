@@ -15,21 +15,21 @@ To see this application in action, check out it out on Heroku: https://teamsport
 
 Within this repository you will find the following:
 
-1. *client* folder (contains the React Application)
+1. **client** folder (contains the React Application)
 
-2. *models* folder (contains the schema models for the _users_ and _exercises_ collections)
+1. **models** folder (contains the schema models for the _users_ and _exercises_ collections)
 
-3. *routes* folder (contains the API endpoints for both the _users_ and the _exercises_)
+1. **routes** folder (contains the API endpoints for both the _users_ and the _exercises_)
 
-4. *.gitignore* file (contains files that are resticted from pushing to GitHub)
+1. **.gitignore** file (contains files that are resticted from pushing to GitHub)
 
-5. *index.js*  file (contains a _ NodeJS Express_ server as well as connections to _MongoDB_ and _MongoDB Atlas_)
+1. **index.js**  file (contains a _ NodeJS Express_ server as well as connections to _MongoDB_ and _MongoDB Atlas_)
 
-6. *LICENSE*
+1. **LICENSE**
 
-7. *package-lock.json* file (contains an exact dependency tree)
+1. **package-lock.json** file (contains an exact dependency tree)
 
-8. *package.json* file (contains application metadata, custom scripts, the license, devDependencies, dependencies and the needed version of _node_)
+1. **package.json** file (contains application metadata, custom scripts, the license, devDependencies, dependencies and the needed version of _node_)
 
 ### Usage
 
