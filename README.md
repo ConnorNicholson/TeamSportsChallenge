@@ -33,8 +33,17 @@ Within this repository you will find the following:
 
 ### Usage
 
-```js
+The **package.json** file contained within this repo holds several custom scripts used to start the application.
 
+Below are instructions on how to run the application using the scripts (assuming you have cloned the repo)
+**NOTE** These commands must be executed in your Terminal:
+
+```js
+    npm start       - (this command checks if the enviroment is in production or development, then it will start the React App and the Express server simultaneously)
+
+    npm start:prod      - (this command will run the application in a production enviroment)
+
+    npm start:dev       - (this command will run the application in a development enviroment)
 ```
 
 #### Challenge Instructions
