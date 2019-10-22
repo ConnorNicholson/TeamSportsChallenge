@@ -9,7 +9,7 @@ My name is Connor Nicholson. I am a member on team New York, participating in th
 
 This repo contains a MERN (MongoDB, Express, React, NodeJS) application that tracks users and their exercise routines.
 
-To see this application in action, check out it out on Heroku: https://github.com/ConnorNicholson/TeamSportsChallenge
+To see this application in action, check out it out on Heroku: https://lifesportschallenge.herokuapp.com/
 
 ### Build Components
 
